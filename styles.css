@@ -1,0 +1,28 @@
+/* <style> */
+h1 {
+  font-size: 30px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: #a30d37;
+  font-weight: lighter;
+}
+
+h2 {
+  font-size: 15pt;
+  font-family: Arial, Helvetica, sans-serif;
+  color: black;
+  font-weight: normal;
+}
+h3 {
+  font-size: 15pt;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-weight: normal;
+}
+p {
+  font-size: 8pt;
+  font-family: Arial, Helvetica, sans-serif;
+  color: black;
+}
+body {
+  background-color: #f5f1f8;
+}
+/* </style> */
